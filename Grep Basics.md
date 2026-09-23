@@ -1,4 +1,4 @@
-# 🔍 Linux `grep` Command Tutorial & Hands-On Lab
+# 🔍 Linux `grep` Command Tutorial
 
 The `grep` (Global Regular Expression Print) command is one of the most powerful text-searching tools in Linux. It allows you to search for specific text patterns within files.
 
