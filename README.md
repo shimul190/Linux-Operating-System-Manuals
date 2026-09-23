@@ -1,4 +1,4 @@
-# 🐧 Complete Linux Lab Guide: Basics, Vim Editor, & Grep
+# 🐧 Complete Linux Guide: Basics, Vim Editor, & Grep
 
 Welcome to the comprehensive Linux guide! This combined document covers essential Linux terminal commands, text editing with Vim, and pattern searching using `grep`.
 
